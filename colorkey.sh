@@ -19,7 +19,7 @@ printf "usage: 	$0 [options] <BTC Key>
 		-h			show this text\n"
 }
 
-
+format="blocks"
 while getopts ":isf:" opt; do
 	case $opt in
 		f)
