@@ -13,7 +13,7 @@ this produces the default behavior of background color + space foreground
 
 ## Output styles:
 
-![formats](examples/format.png)
+![output formats](examples/formats.png)
 
 default/no arguments: block-style output
 
