@@ -3,7 +3,7 @@
 # basic usage of colorkey.sh is ./colorkey.sh <33 HEX BYTE BITCOIN KEY>
 # this produces the default behavior of background color + space foreground
 
-# TODO no arguments: block-style output
+#  no arguments: block-style output
 # -f fg: text is colored 
 # -f bg: background is colored, text is colored as 255-color
 # -f blocks: block-style output 
