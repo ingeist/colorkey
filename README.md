@@ -13,6 +13,8 @@ this produces the default behavior of background color + space foreground
 
 ## Output styles:
 
+![formats](examples/format.png)
+
 default/no arguments: block-style output
 
 -f fg: text is colored 
@@ -30,3 +32,5 @@ usage:  ./colorkey.sh [options] <BTC Key>
                 -f <fg|bg|blocks>       output the key in either foreground color, background color, or as blocks (default behavior)
                 -h                      show this text
 ```
+
+
