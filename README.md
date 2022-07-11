@@ -13,7 +13,7 @@ this produces the default behavior of background color + space foreground
 
 ## Output styles:
 
-TODO default/no arguments: block-style output
+default/no arguments: block-style output
 
 -f fg: text is colored 
 
